@@ -1,0 +1,4 @@
+name: Micra-Nineteen
+version: '1.0-SNAPSHOT'
+main: plugin.micranineteen.Main
+api-version: '1.20'
